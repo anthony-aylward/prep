@@ -9,7 +9,7 @@
 - military MRE's
 - [freezing vegetables](https://nchfp.uga.edu/publications/uga/uga_freeze_veg.pdf)
 
-## water
+## Water
 
 - iodine tablets
 - life straw
